@@ -81,14 +81,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tipos de Matriz.md",
+                "file": "Matriz.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61994fa174242346",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Multiplicação por Escalar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb8ac2ded7f84733",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas de Equações.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c7afce9d1304679",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemas de Equações.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e8c0fb18e1ddd2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transposição de Matrizes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -154,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tipos de Matriz.md",
+                "file": "Transposição de Matrizes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tipos de Matriz.md",
+                "file": "Transposição de Matrizes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tipos de Matriz.md"
+                "file": "Transposição de Matrizes.md"
               }
             }
           }
@@ -215,13 +263,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "56f8a34b9178b65a",
+  "active": "5e8c0fb18e1ddd2c",
   "lastOpenFiles": [
-    "Transposição de Matrizes.md",
-    "Operações.md",
-    "Multiplicação por Escalar.md",
-    "Soma de Matrizes.md",
     "Tipos de Matriz.md",
-    "Matriz.md"
+    "Método de Eliminação Gaussiana.md",
+    "Sistemas de Equações.md",
+    "Matriz Ampliada.md",
+    "Multiplicação por Escalar.md",
+    "Multiplicação de Matrizes.md",
+    "Matriz.md",
+    "Transposição de Matrizes.md",
+    "Soma de Matrizes.md",
+    "Operações.md"
   ]
 }

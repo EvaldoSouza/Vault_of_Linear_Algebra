@@ -1,4 +1,4 @@
-#operação 
+.#operação 
 É uma operação que uma matriz onde aij passa a estar na posição bji, por exemplo, o valor em 3x2 passa a estar em 2x3.
 
 Propriedades:
